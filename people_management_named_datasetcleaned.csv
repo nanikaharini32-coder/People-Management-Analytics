@@ -1,0 +1,121 @@
+EmployeeID,Name,Age,Gender,Department,JobRole,JoiningDate,ExitDate,Status,PerformanceScore,Salary,Location
+1,Lakshmi1,58,Male,Sales,Sales Executive,2023-03-20,,Active,3,94398,Bangalore
+2,Revathi2,35,Female,Sales,Account Manager,2016-06-01,2024-03-15,Resigned,4,95578,Delhi
+3,Priya3,55,Male,HR,Recruiter,2020-03-13,,Active,2,109369,Bangalore
+4,Saravanan4,32,Female,HR,Recruiter,2021-03-12,,Active,5,44793,Mumbai
+5,Karthik5,29,Male,HR,Recruiter,2019-01-18,,Active,1,31014,Bangalore
+6,Prakash6,26,Female,Operations,Logistics Coordinator,2020-01-21,2024-01-16,Resigned,5,42228,Chennai
+7,Kaviya7,27,Female,Operations,Logistics Coordinator,2019-01-12,,Active,2,116414,Delhi
+8,Malathi8,51,Female,Marketing,Marketing Executive,2022-03-05,2023-08-25,Resigned,3,92729,Mumbai
+9,Malathi9,46,Female,Operations,Logistics Coordinator,2015-03-09,,Active,4,69437,Delhi
+10,Meena10,30,Female,IT,System Admin,2023-01-25,2023-02-28,Resigned,2,81064,Delhi
+11,Suresh11,31,Male,Finance,Financial Analyst,2021-10-12,,Active,2,50392,Hyderabad
+12,Senthil12,47,Female,Marketing,SEO Specialist,2024-09-25,,Active,4,67871,Hyderabad
+13,Sandhya13,57,Male,Operations,Logistics Coordinator,2015-07-09,,Active,2,25262,Pune
+14,Sowmiya14,29,Female,IT,System Admin,2023-11-17,,Active,1,25399,Chennai
+15,Suresh15,44,Male,Finance,Accountant,2020-07-18,,Active,3,106387,Pune
+16,Manoj16,42,Female,HR,HR Manager,2018-03-09,2019-10-23,Retired,3,41980,Delhi
+17,Dinesh17,35,Male,HR,Recruiter,2019-05-04,2021-09-21,Resigned,5,98149,Hyderabad
+18,Deepa18,22,Female,HR,HR Manager,2015-10-17,,Active,4,71980,Pune
+19,Balaji19,31,Male,Finance,Financial Analyst,2021-11-04,2024-09-20,Resigned,1,42830,Chennai
+20,Mohan20,29,Male,IT,System Admin,2016-07-05,,Active,4,25271,Hyderabad
+21,Suresh21,58,Female,Operations,Operations Manager,2017-03-21,,Active,2,112688,Delhi
+22,Murugan22,44,Female,IT,System Admin,2016-09-14,,Active,5,75652,Delhi
+23,Sharmila23,41,Female,Finance,Accountant,2020-04-23,,Active,3,79219,Mumbai
+24,Kaviya24,45,Female,Operations,Logistics Coordinator,2024-08-01,,Active,4,94796,Hyderabad
+25,Murugan25,23,Female,HR,HR Manager,2024-05-05,2025-12-13,Retired,5,51080,Mumbai
+26,Harish26,35,Male,Sales,Sales Executive,2016-01-28,,Active,2,65347,Mumbai
+27,Dinesh27,46,Male,Sales,Account Manager,2020-02-23,,Active,3,72739,Pune
+28,Ramesh28,39,Male,HR,Recruiter,2022-10-05,2023-02-02,Resigned,1,103234,Chennai
+29,Sandhya29,36,Female,HR,Recruiter,2017-09-14,2018-12-08,Resigned,4,115004,Bangalore
+30,Saravanan30,41,Female,Finance,Financial Analyst,2018-08-03,,Active,2,68037,Hyderabad
+31,Suresh31,41,Male,IT,System Admin,2015-01-10,,Active,1,104487,Bangalore
+32,Ajith32,47,Female,Sales,Account Manager,2020-06-13,,Active,3,74000,Chennai
+33,Karthik33,37,Female,IT,Software Engineer,2021-10-05,,Active,4,116593,Mumbai
+34,Santhosh34,51,Male,Finance,Financial Analyst,2022-02-04,,Active,5,102917,Hyderabad
+35,Priya35,48,Female,IT,System Admin,2015-06-04,,Active,2,110469,Hyderabad
+36,Divya36,23,Male,HR,HR Manager,2022-09-16,,Active,5,71811,Mumbai
+37,Harini37,50,Male,Finance,Accountant,2020-09-02,,Active,5,104916,Delhi
+38,Malathi38,27,Female,Finance,Accountant,2024-11-10,2025-09-01,Resigned,5,73304,Bangalore
+39,Manoj39,32,Male,Marketing,SEO Specialist,2019-07-28,,Active,2,115151,Hyderabad
+40,Senthil40,34,Female,Sales,Sales Executive,2018-02-10,,Active,1,37137,Pune
+41,Gokul41,37,Female,Operations,Operations Manager,2021-10-22,,Active,1,69447,Delhi
+42,Keerthi42,42,Female,Finance,Accountant,2016-11-28,,Active,3,117313,Delhi
+43,Sandhya43,56,Female,Finance,Accountant,2020-09-02,,Active,5,102247,Hyderabad
+44,Nisha44,24,Male,IT,System Admin,2024-11-24,,Active,2,66428,Pune
+45,Vijay45,36,Female,Finance,Financial Analyst,2017-02-01,,Active,4,40430,Hyderabad
+46,Nisha46,34,Male,Finance,Financial Analyst,2016-10-21,,Active,2,113655,Chennai
+47,Mohan47,56,Female,Finance,Accountant,2022-11-13,,Active,3,73377,Hyderabad
+48,Senthil48,44,Female,Sales,Sales Executive,2020-09-23,,Active,2,45127,Chennai
+49,Gokul49,38,Female,Sales,Sales Executive,2019-09-16,,Active,3,54551,Bangalore
+50,Lakshmi50,30,Female,HR,HR Manager,2020-12-10,,Active,1,100346,Bangalore
+51,Divya51,56,Female,Finance,Accountant,2022-06-14,2024-03-07,Resigned,5,60684,Bangalore
+52,Pavithra52,49,Male,Sales,Account Manager,2015-05-23,,Active,5,70202,Mumbai
+53,Santhosh53,33,Female,HR,HR Manager,2016-01-03,,Active,4,113797,Bangalore
+54,Ajith54,56,Male,Marketing,Marketing Executive,2024-09-12,,Active,2,44723,Pune
+55,Revathi55,50,Female,Marketing,Marketing Executive,2015-03-19,2015-11-24,Retired,2,74806,Bangalore
+56,Karthika56,36,Female,Marketing,Marketing Executive,2023-01-03,,Active,1,90801,Mumbai
+57,Malathi57,38,Female,Finance,Financial Analyst,2018-01-05,,Active,5,29088,Bangalore
+58,Revathi58,57,Male,HR,Recruiter,2018-11-11,2021-02-10,Resigned,5,42183,Bangalore
+59,Ajith59,41,Male,Operations,Operations Manager,2019-09-18,2024-10-27,Resigned,4,108800,Hyderabad
+60,Senthil60,30,Male,Operations,Operations Manager,2021-02-13,,Active,1,113427,Delhi
+61,Meena61,58,Female,Sales,Account Manager,2023-08-27,,Active,5,84261,Delhi
+62,Kaviya62,41,Female,Finance,Financial Analyst,2016-01-03,,Active,3,25921,Chennai
+63,Geetha63,46,Male,HR,HR Manager,2015-09-07,2022-06-10,Resigned,2,57553,Chennai
+64,Dinesh64,31,Male,Sales,Account Manager,2017-03-20,,Active,1,84566,Pune
+65,Pavithra65,45,Male,Operations,Logistics Coordinator,2016-09-20,,Active,1,59833,Delhi
+66,Malathi66,40,Female,IT,System Admin,2020-05-24,,Active,5,41859,Hyderabad
+67,Manoj67,30,Female,Operations,Operations Manager,2015-01-19,,Active,1,102410,Mumbai
+68,Ramesh68,52,Male,Sales,Sales Executive,2017-11-09,2018-12-07,Retired,2,77839,Hyderabad
+69,Preethi69,24,Male,Sales,Sales Executive,2022-10-18,,Active,2,113686,Bangalore
+70,Ajith70,57,Female,Operations,Logistics Coordinator,2022-05-12,,Active,5,80210,Mumbai
+71,Ramesh71,24,Female,HR,HR Manager,2016-01-08,,Active,4,41782,Mumbai
+72,Murugan72,26,Female,Sales,Account Manager,2016-02-16,,Active,2,100896,Pune
+73,Meena73,46,Male,IT,Software Engineer,2019-10-10,,Active,3,96849,Bangalore
+74,Karthika74,37,Female,Finance,Accountant,2020-12-28,2022-02-14,Retired,2,38807,Mumbai
+75,Lakshmi75,26,Female,IT,Data Analyst,2020-10-03,,Active,5,68227,Bangalore
+76,Murugan76,41,Male,Finance,Financial Analyst,2021-09-27,2024-01-02,Resigned,3,60599,Delhi
+77,Sowmiya77,43,Female,Marketing,SEO Specialist,2020-09-03,,Active,1,86690,Bangalore
+78,Rajesh78,33,Male,HR,Recruiter,2018-07-12,,Active,4,77081,Hyderabad
+79,Divya79,43,Male,Operations,Logistics Coordinator,2020-03-24,,Active,5,84741,Mumbai
+80,Sowmiya80,40,Male,Operations,Logistics Coordinator,2023-02-26,,Active,5,100231,Chennai
+81,Sowmiya81,43,Female,HR,HR Manager,2015-02-11,2018-09-18,Resigned,5,70831,Hyderabad
+82,Arun82,54,Female,HR,HR Manager,2023-07-20,,Active,3,71171,Bangalore
+83,Manoj83,38,Male,HR,Recruiter,2022-12-19,,Active,1,37000,Bangalore
+84,Vignesh84,30,Male,Marketing,SEO Specialist,2017-04-03,,Active,1,62329,Mumbai
+85,Lakshmi85,25,Male,Sales,Sales Executive,2015-08-04,,Active,5,111901,Chennai
+86,Arun86,29,Female,Finance,Accountant,2019-11-26,2021-11-17,Retired,4,93195,Hyderabad
+87,Harini87,33,Female,Sales,Account Manager,2022-07-19,,Active,4,106633,Delhi
+88,Anitha88,58,Male,Operations,Logistics Coordinator,2016-08-17,,Active,3,84235,Bangalore
+89,Preethi89,33,Female,Marketing,SEO Specialist,2019-10-26,2025-02-07,Resigned,1,82046,Bangalore
+90,Gokul90,25,Male,Marketing,SEO Specialist,2018-01-26,2018-08-01,Resigned,3,89977,Hyderabad
+91,Dinesh91,29,Male,Finance,Accountant,2017-12-09,,Active,2,75015,Chennai
+92,Kaviya92,30,Male,Sales,Sales Executive,2023-06-24,,Active,1,99473,Bangalore
+93,Karthik93,28,Female,Finance,Financial Analyst,2023-04-12,,Active,2,103197,Pune
+94,Saravanan94,36,Female,Marketing,Marketing Executive,2021-11-10,2024-02-19,Resigned,4,84835,Bangalore
+95,Prakash95,41,Male,IT,Software Engineer,2022-01-09,2022-10-15,Resigned,3,52542,Hyderabad
+96,Preethi96,37,Male,Operations,Operations Manager,2024-03-12,,Active,3,53455,Pune
+97,Janani97,33,Female,Marketing,SEO Specialist,2018-01-12,,Active,4,30155,Pune
+98,Saravanan98,33,Male,IT,Data Analyst,2020-10-10,2024-07-08,Retired,2,88028,Bangalore
+99,Meena99,30,Male,IT,System Admin,2020-04-10,,Active,4,66069,Bangalore
+100,Gokul100,45,Female,Finance,Financial Analyst,2021-03-08,2025-10-18,Resigned,5,72369,Chennai
+101,Vignesh101,47,Female,Finance,Financial Analyst,2024-04-01,,Active,2,65249,Chennai
+102,Mohan102,41,Female,Marketing,SEO Specialist,2020-02-08,,Active,4,94446,Bangalore
+103,Nisha103,37,Female,Sales,Account Manager,2021-08-18,,Active,2,83975,Delhi
+104,Kaviya104,40,Male,Marketing,Marketing Executive,2024-07-22,,Active,5,86871,Pune
+105,Vignesh105,38,Male,IT,Software Engineer,2023-03-28,,Active,4,26246,Bangalore
+106,Prakash106,27,Female,IT,Software Engineer,2023-02-16,2023-07-17,Resigned,3,33663,Bangalore
+107,Gokul107,57,Male,IT,Data Analyst,2019-07-26,2024-09-05,Resigned,4,51615,Hyderabad
+108,Anitha108,23,Female,Sales,Account Manager,2023-05-18,,Active,3,118098,Bangalore
+109,Gokul109,27,Female,Finance,Financial Analyst,2024-04-10,2024-10-03,Resigned,3,93292,Chennai
+110,Nisha110,43,Female,Sales,Account Manager,2021-03-08,2024-03-05,Resigned,4,28228,Hyderabad
+111,Divya111,41,Female,Sales,Account Manager,2019-01-04,2020-11-17,Resigned,1,40943,Delhi
+112,Vijay112,27,Female,Finance,Financial Analyst,2022-04-07,,Active,3,66879,Bangalore
+113,Gokul113,29,Male,Sales,Account Manager,2022-07-10,,Active,4,92878,Chennai
+114,Santhosh114,56,Female,HR,Recruiter,2024-07-01,,Active,3,82643,Chennai
+115,Divya115,55,Male,HR,Recruiter,2016-08-23,,Active,3,85922,Pune
+116,Priya116,53,Male,IT,Data Analyst,2017-02-10,2020-08-28,Resigned,2,63911,Delhi
+117,Lakshmi117,23,Male,Operations,Operations Manager,2023-01-03,2023-04-16,Resigned,1,55803,Delhi
+118,Manoj118,25,Female,Sales,Sales Executive,2018-03-18,,Active,5,96174,Bangalore
+119,Senthil119,49,Male,Sales,Account Manager,2015-12-25,,Active,2,103010,Delhi
+120,Arun120,49,Male,IT,Data Analyst,2015-04-22,2019-01-08,Resigned,1,30642,Chennai

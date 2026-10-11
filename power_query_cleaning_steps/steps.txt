@@ -1,0 +1,34 @@
+# Power Query Data Cleaning Steps
+
+## Project: People Management Analytics
+
+**Tool:** Microsoft Power BI — Power Query Editor
+
+### 1. Data Import
+- Imported the original people management dataset into Power BI.
+- Selected Transform Data to open Power Query Editor.
+
+### 2. Data Cleaning and Transformation
+- Applied **Trim** to remove leading and trailing spaces from text columns.
+- Applied **Clean** to remove non-printing characters.
+- Standardized category values where inconsistencies existed.
+- Set appropriate data types for employee IDs, age, salary, performance score, and date columns.
+- Inspected missing values and reviewed duplicate employee records.
+- Checked employee status and exit dates for consistency.
+
+### 3. Data Validation
+- Reviewed column names and data types.
+- Checked employee IDs for duplicates.
+- Reviewed missing values and unexpected category values.
+- Compared the row count before and after cleaning.
+- Preserved valid blank exit dates for active employees.
+
+### 4. Apply Changes
+- Reviewed the Applied Steps in Power Query Editor.
+- Selected Close & Apply to load the transformed data into Power BI.
+
+### 5. Dashboard Development
+The transformed data was used to build a People Management Analytics dashboard containing employee counts, department analysis, performance scores, salary analysis, gender distribution, and employee status.
+
+### Outcome
+Prepared the dataset for workforce analysis using Power Query transformations and Power BI visualizations.

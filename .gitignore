@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary and backup files
+*.tmp
+*.bak
+~$*
+
+# Operating system files
+.DS_Store
+Thumbs.db
