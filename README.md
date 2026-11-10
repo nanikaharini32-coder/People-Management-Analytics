@@ -53,13 +53,6 @@ The Power BI dashboard includes:
 - Employee count by department
 - Employee status distribution for Active, Resigned, and Retired employees.
 
-## How to Run the Project
-
-1. Clone or download this repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. If Power BI requests the source file, update the data source path to your local dataset.
-4. Select Transform Data to inspect the Power Query transformations.
-5. Use the report page to explore workforce metrics and visualizations.
 
 ## Learning Outcomes
 
